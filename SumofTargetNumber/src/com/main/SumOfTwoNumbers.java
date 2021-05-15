@@ -34,8 +34,8 @@ public class SumOfTwoNumbers {
 		else
 			System.out.println("Result not Found");
 
-		//close the scanner object
+		
 		sc.close();
 
 	}
-}
+
